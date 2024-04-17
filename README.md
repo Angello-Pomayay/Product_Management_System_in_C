@@ -7,6 +7,9 @@ selling (I chose the context of a restaurant as an example of use).
 The project is divided into three main files: `main.c`, `servizio.h`, and `servizio.c`. This project was made by me as 
 part of my university programming course, was intended to show what I learned during the course. 
 
+![ezgif com-video-to-gif-converter](https://github.com/Angello-Pomayay/Product_Management_System_in_C/assets/159076658/e367f9a5-4433-496d-a6f5-b6a98639fd08)
+
+
 ## `servizio.h`
 
 This header file contains the declaration of the data structures and functions used in the project.
