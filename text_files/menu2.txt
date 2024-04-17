@@ -1,0 +1,16 @@
+prodotto___1 6.99 30
+prodotto___2 9.99 30
+prodotto___3 1.99 30
+prodotto___4 2.99 30
+prodotto___5 6.99 30
+prodotto___6 15.99 30
+prodotto___7 50.99 30
+prodotto___8 1.99 30
+prodotto___9 2.00 30
+prodotto___10 5.00 30
+prodotto___11 9.00 30
+prodotto___12 1.00 30
+prodotto___13 6.99 30
+prodotto___14 7.99 30
+prodotto___15 6.99 30
+prodotto___16 7.99 30
