@@ -45,6 +45,7 @@ the user to interact with the system and managing the flow of the application.
 
 ## Screenshots
 
+![src1](screenshots/1.png)
 ![scr1](screenshots/1.png | width=100)
 ![scr2](screenshots/2.png | width=100)
 ![scr3](screenshots/3.png | width=100)
