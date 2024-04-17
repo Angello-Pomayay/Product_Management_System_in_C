@@ -46,4 +46,6 @@ the user to interact with the system and managing the flow of the application.
 ## Screenshots
 
 <img src="screenshots/1.png" width="50%">
+<img src="screenshots/2.png" width="50%">
+<img src="screenshots/3.png" width="50%">
 
