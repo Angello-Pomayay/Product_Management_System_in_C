@@ -49,8 +49,3 @@ the user to interact with the system and managing the flow of the application.
 ![scr2](screenshots/2.png | width=100)
 ![scr3](screenshots/3.png | width=100)
 
-
-<img src="screenshots/1.png" alt="scr1" style="max-width:50%; max-height:100px;">
-<img src="screenshots/2.png" alt="scr2" style="max-width:100%; max-height:300px;">
-<img src="screenshots/3.png" alt="scr3" style="max-width:100%; max-height:300px;">
-
