@@ -7,7 +7,7 @@ selling (I chose the context of a restaurant as an example of use).
 The project is divided into three main files: `main.c`, `servizio.h`, and `servizio.c`. This project was made by me as 
 part of my university programming course, was intended to show what I learned during the course. 
 
-![ezgif com-video-to-gif-converter](https://github.com/Angello-Pomayay/Product_Management_System_in_C/assets/159076658/e367f9a5-4433-496d-a6f5-b6a98639fd08)
+![gif_avvio](https://github.com/Angello-Pomayay/Product_Management_System_in_C/assets/159076658/e367f9a5-4433-496d-a6f5-b6a98639fd08)
 
 
 ## `servizio.h`
@@ -42,3 +42,9 @@ checking the status and length of the menu, and cancelling the menu.
 
 Overall, the `main.c` file orchestrates the operations of the product management system, providing an interface for 
 the user to interact with the system and managing the flow of the application.
+
+## Screenshots
+
+![scr1](screenshots/1.png)
+![scr2](screenshots/2.png)
+![scr3](screenshots/3.png)
